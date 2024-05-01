@@ -1,5 +1,5 @@
 # from math import *
-import math as m 
+import math as m
 
 # drawing a shape
 # print("   /|")
@@ -39,12 +39,12 @@ import math as m
 # datatypes:
 ## string
 ## numbers: int, float
-## boolean: 
+## boolean:
 
 # working wiht strings
 
 # print("Giraffe \n Academy")
-# #Giraffe 
+# #Giraffe
 # # Academy
 
 
@@ -81,17 +81,17 @@ import math as m
 # print(my_num)
 # print(str(my_num) + " my fav number")
 
-my_num = -7
-print(abs(my_num))
-print(pow(abs(my_num),2))
-print(max(4,6))
-list_num = [4,6]
-print(max(list_num))
-print(min(list_num))
-print(round(3.45))
+# my_num = -7
+# print(abs(my_num))
+# print(pow(abs(my_num),2))
+# print(max(4,6))
+# list_num = [4,6]
+# print(max(list_num))
+# print(min(list_num))
+# print(round(3.45))
 
-# from math import * 
-decimal_num = 3.45
-print(m.floor(decimal_num))
-print(m.ceil(decimal_num))
-print(m.sqrt(49))
+# # from math import *
+# decimal_num = 3.45
+# print(m.floor(decimal_num)) # 3
+# print(m.ceil(decimal_num)) # 4
+# print(m.sqrt(49)) # 7.0
