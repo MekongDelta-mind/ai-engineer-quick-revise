@@ -1,0 +1,65 @@
+DEBUG:__main__:This message should go to the log file
+INFO:__main__:So should this
+WARNING:__main__:And this, too
+ERROR:__main__:And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:Program ended with success.
+DEBUG:__main__:This message should go to the log file
+INFO:__main__:So should this
+WARNING:__main__:And this, too
+ERROR:__main__:And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:Program ended with success.
+DEBUG:__main__:2024-05-01 23:22:57.748006------------------------------
+DEBUG:__main__:2024-05-01 23:22:57.748006	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:22:57.748006	 	 So should this
+WARNING:__main__:2024-05-01 23:22:57.748006	 	 And this, too
+ERROR:__main__:2024-05-01 23:22:57.748006	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:Program ended with success.
+DEBUG:__main__:2024-05-01 23:24:06.941469------------------------------
+DEBUG:__main__:2024-05-01 23:24:06.941469	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:24:06.941469	 	 So should this
+WARNING:__main__:2024-05-01 23:24:06.941469	 	 And this, too
+ERROR:__main__:2024-05-01 23:24:06.941469	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:2024-05-01 23:25:26.478604------------------------------
+DEBUG:__main__:2024-05-01 23:25:26.478604	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:25:26.478604	 	 So should this
+WARNING:__main__:2024-05-01 23:25:26.478604	 	 And this, too
+ERROR:__main__:2024-05-01 23:25:26.478604	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:2024-05-01 23:26:00.251741------------------------------
+DEBUG:__main__:2024-05-01 23:26:00.251741	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:26:00.251741	 	 So should this
+WARNING:__main__:2024-05-01 23:26:00.251741	 	 And this, too
+ERROR:__main__:2024-05-01 23:26:00.251741	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:2024-05-01 23:26:50.281100------------------------------
+DEBUG:__main__:2024-05-01 23:26:50.281100	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:26:50.281100	 	 So should this
+WARNING:__main__:2024-05-01 23:26:50.281100	 	 And this, too
+ERROR:__main__:2024-05-01 23:26:50.281100	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+DEBUG:__main__:2024-05-01 23:29:18.986987------------------------------
+DEBUG:__main__:2024-05-01 23:29:18.986987	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:29:18.986987	 	 So should this
+WARNING:__main__:2024-05-01 23:29:18.986987	 	 And this, too
+ERROR:__main__:2024-05-01 23:29:18.986987	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+ERROR:__main__:invalid literal for int() with base 10: 'aefae'
+Traceback (most recent call last):
+  File "/home/prabin_nayak/Workspace/side_projects/ai-engineer-quick-revise/python/try_except.py", line 78, in <module>
+    number = int(input("Enter a number: " ))
+ValueError: invalid literal for int() with base 10: 'aefae'
+DEBUG:__main__:2024-05-01 23:30:52.129333------------------------------
+DEBUG:__main__:2024-05-01 23:30:52.129333	 	 This message should go to the log file
+INFO:__main__:2024-05-01 23:30:52.129333	 	 So should this
+WARNING:__main__:2024-05-01 23:30:52.129333	 	 And this, too
+ERROR:__main__:2024-05-01 23:30:52.129333	 	 And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:__main__:Program started.
+ERROR:__main__:invalid literal for int() with base 10: 'afdaew'
+Traceback (most recent call last):
+  File "/home/prabin_nayak/Workspace/side_projects/ai-engineer-quick-revise/python/try_except.py", line 78, in <module>
+    number = int(input("Enter a number: " ))
+ValueError: invalid literal for int() with base 10: 'afdaew'
